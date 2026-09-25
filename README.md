@@ -16,14 +16,26 @@
 
 <br><br>
 
+<a href="https://final-exam-of-sql-with-web-app.streamlit.app/" target="_blank">
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"/>
+</a>
+
+<br><br>
+
 *A robust, professional SQL database project demonstrating relational database design, constraints, CRUD operations, advanced joins, aggregate functions, nested subqueries, date/time manipulation, string formatting, window functions, and analytical reporting using PostgreSQL.*
 
 </div>
 
 ---
 
+### 🌐 Live Interactive Web Application
+Experience the live application deployed on Streamlit Cloud:  
+👉 **[final-exam-of-sql-with-web-app.streamlit.app](https://final-exam-of-sql-with-web-app.streamlit.app/)**
+
+---
+
 ### 🎥 Project Demonstration Video
-Watch the detailed walkthrough of this project:
+Watch the detailed walkthrough of this project:  
 👉 **[Google Drive Video Link](https://drive.google.com/file/d/1VUW99bodHkyFNwlz5xLWgOqx5vfsHXAm/view?usp=sharing)**
 
 ---
@@ -113,6 +125,10 @@ Event_Management_System/
 ---
 
 # 🌐 Streamlit Web Application Portal
+
+> [!TIP]
+> 🚀 **Live Demo Available Online**: Anyone can immediately interact with and evaluate this application without local setup:  
+> 👉 **[https://final-exam-of-sql-with-web-app.streamlit.app/](https://final-exam-of-sql-with-web-app.streamlit.app/)**
 
 An executive-grade, interactive web portal built with **Streamlit** and **Plotly** to showcase the relational database system:
 
@@ -687,9 +703,15 @@ By designing and executing this project, I consolidated expertise in:
 ---
 
 # 🚀 How to Run
-
-### Option 1: Launch the Interactive Streamlit Web Application (Recommended)
-
+ 
+### Option 1: Access the Live Web Application (Instant ⚡)
+Anyone can launch and explore the full interactive portal directly in their browser:  
+👉 **[https://final-exam-of-sql-with-web-app.streamlit.app/](https://final-exam-of-sql-with-web-app.streamlit.app/)**
+ 
+---
+ 
+### Option 2: Run Locally with Python & Streamlit
+ 
 1. Open your terminal in the project directory:
    ```bash
    cd "d:\RD\weekly task\SQL\final exam with web app"
@@ -703,10 +725,10 @@ By designing and executing this project, I consolidated expertise in:
    streamlit run app.py
    ```
 4. The interactive dashboard will automatically launch in your default web browser at `http://localhost:8501`.
-
+ 
 ---
-
-### Option 2: Execute Original PostgreSQL Script in pgAdmin / DBeaver
+ 
+### Option 3: Execute Original PostgreSQL Script in pgAdmin / DBeaver
 
 1. Ensure you have **PostgreSQL Server** and a database client like **pgAdmin** or **DBeaver** installed.
 2. Open your SQL console and create the database:
